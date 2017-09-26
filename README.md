@@ -4,13 +4,15 @@
 - [x] TF
 - [x] ODOM
 - [x] JointStates
+- [ ] covariance matrix
+- [ ] IMU + ODOM EKF - Filter
 - [ ] IMU
 - [ ] Kinematics Check
 
 #### argon_bringup ####
 - [x] argon_core
 - [x] argon_teleop_key
-- [ ] argon_model
+- [ ] argon_model (detailed)
 - [ ] argon_lidar
 
 #### argon_description ####
@@ -21,3 +23,6 @@
 #### argon_navigation ####
 - [ ] slam
 - [ ] amcl
+
+### argon_fake
+### gazebo_simulation
