@@ -26,3 +26,7 @@
 
 ### argon_fake
 ### gazebo_simulation
+
+```shell
+test
+```
