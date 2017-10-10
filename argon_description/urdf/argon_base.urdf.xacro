@@ -4,11 +4,11 @@
 
   <xacro:property name="argon_base_center_x" value="0.0" />
   <xacro:property name="argon_base_center_y" value="0.0" />
-  <xacro:property name="argon_base_center_z" value="0.038" />
+  <xacro:property name="argon_base_center_z" value="0.040" />
 
   <xacro:property name="argon_base_wheel_offset_x" value="0.0725" />
   <xacro:property name="argon_base_wheel_offset_y" value="0.0645" />
-  <xacro:property name="argon_base_wheel_offset_z" value="0.008" />
+  <xacro:property name="argon_base_wheel_offset_z" value="0.010" />
   <xacro:property name="argon_base_wheel_radius" value="0.03" />
   <xacro:property name="argon_base_wheel_length" value="0.032" />
 
