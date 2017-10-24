@@ -26,3 +26,11 @@
 
 ### argon_fake
 ### gazebo_simulation
+
+```shell
+mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws/src
+git clone ->repo
+cd..
+catkin_make
+```
